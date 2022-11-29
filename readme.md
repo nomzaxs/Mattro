@@ -38,12 +38,31 @@
 
 ![](https://velog.velcdn.com/images/jmlee9707/post/80f37398-5613-436e-ac37-c9d6721eb5d7/image.png)
 
-| [조성민](https://github.com/WeedInGist)                                                                                    | [박상현](https://github.com/nomzaxs)                                                                                        | [박세호](https://github.com/seho27060)                                                                                      | [염진호](https://github.com/Yeom-JinHo)                                                                                     | [윤정원](https://github.com/yunjeongwon)                                                                                  | [이정민](https://github.com/jmlee9707)                                                                                             |
-|:-----------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------:|
-| <img src="https://velog.velcdn.com/images/jmlee9707/post/ce878cc7-7160-414c-9b8b-45c8cb5aa3ea/image.jpeg" width="100"/> | <img src="https://velog.velcdn.com/images/jmlee9707/post/8ec55370-2087-4e0a-95a3-5def41a84af1/image.jpeg" width ="100"/> | <img src="https://velog.velcdn.com/images/jmlee9707/post/2d057785-39f0-4d7c-9de1-c6214fe7cef7/image.jpeg" width ="100"/> | <img src="https://velog.velcdn.com/images/jmlee9707/post/43caa432-b8db-4dbd-951a-354b050d4abf/image.jpeg" width ="100"/> | <img src="https://velog.velcdn.com/images/jmlee9707/post/4836e2f7-2a50-4daf-aef1-1ca984cdf514/image.jpeg" width="100"> | <img src="https://user-images.githubusercontent.com/72871348/169957444-3e3a7ad7-d0fe-4a0a-9061-d7546aaae495.jpg" width ="100"/> |
-| BE                                                                                                                      | BE                                                                                                                       | BE                                                                                                                       | FE                                                                                                                       | FE                                                                                                                     | FE                                                                                                                              |
+<table>
+    <tr>
+        <td height="140px" align="center"> <a href="https://github.com/WeedInGist">
+            <img src="https://avatars.githubusercontent.com/WeedInGist" width="140px" /> <br><br> 🙄 조성민 <br>(Back-End) </a> <br></td>
+        <td height="140px" align="center"> <a href="https://github.com/nomzaxs">
+            <img src="https://avatars.githubusercontent.com/nomzaxs" width="140px" /> <br><br> 😁 박상현 <br>(Back-End) </a> <br></td>
+        <td height="140px" align="center"> <a href="https://github.com/seho27060">
+            <img src="https://avatars.githubusercontent.com/seho27060" width="140px" /> <br><br> 🙂 박세호 <br>(Front-End) </a> <br></td>
+        <td height="140px" align="center"> <a href="https://github.com/Yeom-JinHo">
+            <img src="https://avatars.githubusercontent.com/Yeom-JinHo" width="140px" /> <br><br> 🙂 염진호 <br>(Front-End) </a> <br></td>
+        <td height="140px" align="center"> <a href="https://github.com/yunjeongwon">
+            <img src="https://avatars.githubusercontent.com/yunjeongwon" width="140px" /> <br><br> 😆 윤정원 <br>(Front-End) </a> <br></td>
+        <td height="140px" align="center"> <a href="https://github.com/jmlee9707">
+            <img src="https://avatars.githubusercontent.com/jmlee9707" width="140px" /> <br><br> 🙄 이정민 <br>(Back-End) </a> <br></td>
+    </tr>
+    <tr>
+        <td align="center">Spark<br/>Spring Boot<br/>REST API
+        <td align="center">CI/CD<br/>Spring Boot<br/>REST API
+        <td align="center">Crawling<br/>Srping Boot<br/>REST API
+        <td align="center">UI/UX<br/>Next.js
+        <td align="center">Socket.io<br>UI/UX<br/>Next.js
+        <td align="center">UI/UX<br/>Next.js
+    </tr>
+</table>
 
-<br />
 <br />
 
 ## 🍴 프로젝트 소개
