@@ -52,7 +52,6 @@
             <img src="https://avatars.githubusercontent.com/seho27060" width="140px" /> <br><br> 🙂 박세호 <br>(Back-End) </a> <br></td>
         <td height="140px" align="center"> <a href="https://github.com/WeedInGist">
             <img src="https://avatars.githubusercontent.com/WeedInGist" width="140px" /> <br><br> 🙄 조성민 <br>(Back-End) </a> <br></td>
-
     </tr>
     <tr>
         <td align="center">UI/UX<br/>Next.js
