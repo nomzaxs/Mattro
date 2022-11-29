@@ -40,26 +40,27 @@
 
 <table>
     <tr>
-        <td height="140px" align="center"> <a href="https://github.com/WeedInGist">
-            <img src="https://avatars.githubusercontent.com/WeedInGist" width="140px" /> <br><br> 🙄 조성민 <br>(Back-End) </a> <br></td>
-        <td height="140px" align="center"> <a href="https://github.com/nomzaxs">
-            <img src="https://avatars.githubusercontent.com/nomzaxs" width="140px" /> <br><br> 😁 박상현 <br>(Back-End) </a> <br></td>
-        <td height="140px" align="center"> <a href="https://github.com/seho27060">
-            <img src="https://avatars.githubusercontent.com/seho27060" width="140px" /> <br><br> 🙂 박세호 <br>(Front-End) </a> <br></td>
         <td height="140px" align="center"> <a href="https://github.com/Yeom-JinHo">
             <img src="https://avatars.githubusercontent.com/Yeom-JinHo" width="140px" /> <br><br> 🙂 염진호 <br>(Front-End) </a> <br></td>
         <td height="140px" align="center"> <a href="https://github.com/yunjeongwon">
             <img src="https://avatars.githubusercontent.com/yunjeongwon" width="140px" /> <br><br> 😆 윤정원 <br>(Front-End) </a> <br></td>
         <td height="140px" align="center"> <a href="https://github.com/jmlee9707">
-            <img src="https://avatars.githubusercontent.com/jmlee9707" width="140px" /> <br><br> 🙄 이정민 <br>(Back-End) </a> <br></td>
+            <img src="https://avatars.githubusercontent.com/jmlee9707" width="140px" /> <br><br> 🙄 이정민 <br>(Front-End) </a> <br></td>
+        <td height="140px" align="center"> <a href="https://github.com/nomzaxs">
+            <img src="https://avatars.githubusercontent.com/nomzaxs" width="140px" /> <br><br> 😁 박상현 <br>(Back-End) </a> <br></td>
+        <td height="140px" align="center"> <a href="https://github.com/seho27060">
+            <img src="https://avatars.githubusercontent.com/seho27060" width="140px" /> <br><br> 🙂 박세호 <br>(Back-End) </a> <br></td>
+        <td height="140px" align="center"> <a href="https://github.com/WeedInGist">
+            <img src="https://avatars.githubusercontent.com/WeedInGist" width="140px" /> <br><br> 🙄 조성민 <br>(Back-End) </a> <br></td>
+
     </tr>
     <tr>
-        <td align="center">Spark<br/>Spring Boot<br/>REST API
-        <td align="center">CI/CD<br/>Spring Boot<br/>REST API
-        <td align="center">Crawling<br/>Srping Boot<br/>REST API
         <td align="center">UI/UX<br/>Next.js
         <td align="center">Socket.io<br>UI/UX<br/>Next.js
         <td align="center">UI/UX<br/>Next.js
+        <td align="center">CI/CD<br/>Spring Boot<br/>REST API
+        <td align="center">Crawling<br/>Spring Boot<br/>REST API
+        <td align="center">Spark<br/>Srping Boot<br/>REST API
     </tr>
 </table>
 
